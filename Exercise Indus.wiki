@@ -1,0 +1,128 @@
+= Exercise Indus: Hunterston B Nuclear Incident =
+ start:: 10/10/2007, 8:00am
+ end:: 10/10/2007, 4:30pm
+ location: Strategic Coordination Centre (SCC), Liberator House, Prestwick Airport.
+
+This is a Level 2 (off site) exercise for Hunterston B, (Level 1 exercises are on site) must take place at least every 3 years according to COMAH/Radiological regulations.  The exercise is based on the North Ayreshire Council off site contingency plan for the station, attached:plan.pdf.
+
+[[Image(hunterston.jpg)]]
+
+
+== Emergency Plan ==
+
+{{{#!bibtex
+@Manual{ayrshire06hunterston,
+  title = 	 {Hunterston Nuclear Power Stations Interim Off-Site Emergency Plan (Abridged Version)},
+  key =		 {North Ayrshire Council},
+  organization = {North Ayrshire Council},
+  month =	 {March},
+  year =	 2006,
+  note =	 {Prepared on Behalf of Strathclyde Emergencies Coordinating Group.  SECG Ref.: No. 14},
+  url =          {attachment:ayrshire06hunterston.pdf}
+}
+
+}}}
+
+== People ==
+
+ * Louise Driver: Exercise Indus Coordinator for British Energy
+ * John Skeg: Emergency Planning, British Energy
+ * Douglas Watt (SEPA, South West)
+
+== Involved Agencies ==
+
+Emergency services (police, fire, ambulance), British Energy, Health Protection Agency, Health Advisory Group, Scottish Environmental Protection Agency, Local authorities, SCC staffing, Government representatives, government technical advisors. 
+
+In addition, the Food Protection Agency were part of the initial planning for the exercise, but had to withdraw.  As a result, the exercise was shortened from 8.00pm to 4.00pm.
+
+== Exercise Narrative ==
+
+The exercise began at 8.02am with a declaration that an incident had occurred at Hunterston B Nuclear Power Station and the emergency plan activated.  British Energy staff were waiting for the police to arrive to open the SCC in order to initiate the response.
+
+The building was opened at about 8.35am with access to the building controlled by the police.  The police begin going through their plan response from the offsite plan.  Other agencies begin to arrive over the next hour.  The incident officer (tactical commander) wheres a blue and white tabard.
+
+An early problem is that staff from British Energy are unavailable on site, so little information as to what has occurred is available.  In addition, the TiiMs system isn't working, so no information can be retrieved from here.
+The information that is available describes a "gas plume" arising from Hunterston B, heading in a south east direction.  No information as to the make-up of the gas, or its likely effects are available.  Eventually, the police coordination desk begins to call-out to British Energy offices to locate somebody who is coordinating Exercise Indus.
+
+The incident is managed primarily by the strategic and tactical committees, and also by the three sub-groups(health, media and recovery).
+
+The first tactical meeting is help at 9:25am.  The police tactical commander (a superintendent) has an emergency procedures advisor, who is there to pick up on actions missed by the rest of the team.  There is a conflict in the information received as to casualties/missing people. Some reports refer to 3/4/5 missing people from the BE role call, some refer to 3/4/5 casualties handled by the ambulance service.  It isn't clear who are casualties/missing, and this continues throughout the afternoon.  Other actions:
+ * The HPA confirms that an emergency broadcast has been made advising people to "go in, stay in, tune in.", according to the campaign.  The automatic phone system hasn't functioned perfectly.
+ * Confusion as to the geographic area particular discussions refer to: continues during the day.
+ * Media briefing centre to be setup.
+
+Sometime during the morning, the police begin closing transport links (roads and rail) through the path of the gas plume.  Unfortunately, this isn't before a train passes through the cloud, so need advice as to what to do with the passengers.
+
+A media sub-group meeting takes place at about 11am.  There are difficulties between the police media coordinator and British Energy, which continue throughout the day.
+
+Strategic Meeting: one point arose was the location of the operational rendezvous point had changed due to change in wind direction.  Not clear that other agencies were informed of the change in location until the next tactical briefing, although police had placed the information on STORM.
+
+Tactical Meeting (1pm?):
+
+Early afternoon - the plume of gas was shutdown - valves were put in place which prevented the damage from continuing, but no immediate information on the integrity of repairs.
+
+A query at this stage is whether the radiation will reach beyond the 2.5km current operation area - the wind has now changed and blowing southwards.  Suggestion that the isle of man, Dumfries+galloway and Cumbria will be affected.  Although the conclusion arises from the discussion, no one from HPA or BE explicitly says that the particles won't travel beyond a few kms, so no need to worry about further south.  HPA/BE seem to have real problems communicating how they see the situation.  I wonder if BE view the exercise for them as being about the onsite activities, and really can't be bothered playing the game off site.
+
+By about 2pm it is becoming well ordered, people are getting a bit bored and chatty.  Suggestion that the exercise hasn't really stressed the plan.  It has now been revealed that one casualty died (out of five), so the incident is now a crime scene, until circumstances have been established.  Also, one ambulance has been contaminated and isolated as a potential crime scene.  Interesting conflict of responsibilities arise: safety of hunterston station must be managed alongside treating the area as a crime scene.
+
+At around 3pm, handover to the local authority is under preparation, the exercise itself is terminated at 4pm, with a hot debrief at 4pm.
+
+
+== Building Layout ==
+
+The image gives a floor plan of the strategic coordination centre.
+
+[[Image(scc.jpg,width=800)]]
+
+Each agency is allocated a desk, with size depending on the number of representatives attending the site.  The biggest groups are the police and the Health Advisory Group.  Lots of power points and what look like network access points are available at each desk, although no one is using them - perhaps because there are no ethernet cables evident, or because the network isn't accessible without authentication. 
+
+== Use of Whiteboards ==
+
+The whiteboards seem to be used to maintain an up to date reference for general situation information.  The first task for the police log officer was writing the response "template" on the whiteboard, including the generic strategy for the response and the SAD-CHALET acronyms.  Later on it appeared that the intention was to fill these with information as it became available, e.g. "5" was written next to "casualties.  Different colours used to distinguish between template and information, but I'm not sure if this is intentional.
+
+  However, the whiteboard information wasn't kept up to date - the last up date written was for 11am.  As a result, some of the agencies weren't aware of incidents that occurred at the Hunterston site until near the end of the event.  A comment made during the debrief was that one agency (SEPA?) only learned there had been a separate fire at Hunterston when they were given the information that the fire had been put out.  This may have been because the officer who initially maintained the board also seemed to be required to log radio messages.
+
+== Messaging System ==
+
+Each agency is provided with a desk with a standard set of stationary, but no IT.  Most organisations brought their own IT systems with -them, i.e. laptops with portable printers.
+
+Messaging between desks occurs via paper forms.  The form is filled in with meta-data (sender, recipient, unique identifying number, number of associated messages) and the contents of the message.  Initially, staff use carbon paper to make copies, but this doesn't work (I think the paper was to thick). As a fall back, copies of the messages are written out in hand twice.  A message form is then taken by the author to the desk of the recipient, where they either deliver it and leave, or wait for a response.  It becomes apparent that this system isn't working very well and is new for the centre - staff aren't used to it.
+
+"with all this technology, why are we using paper?" - police constable.
+
+Messaging seems to take a very long time.  Also, each agency seems to be maintaining its own system for message logging.
+
+The distributed mechanism for messaging meant there was no central audit log for the exercise.
+
+By about 10.20am, the police had a log of about 25 out-going messages, the ambulance had about 20.
+
+== TiiMs System ==
+
+The Incident information Management System - used by British Energy to distribute information to remote locations on the state of the incident at Hunterston B.  The system doesn't work in the early stages of the emergency (it isn't clear whether this is part of the scenario or not), and there don't seem to be any on-site techncial staff for repairing such systems.  Staff also seem to have problems logging on to the system (very long passwords) which appear to be written down on instruction cards next to the PC.
+
+After a couple of attempts, staff give up on these machines during the morning, during the afternoon some machines begin to work.
+
+Later on, TiiMs was setup to work on the projector for the tactical meeting area.  Based on LoTuS notes, there wasn't much information recorded on it.
+
+== Media Sub-Group ==
+
+The media sub-group was responsible for coordinating information between the SCC and the media briefing centre, in particular agreeing a common line for interviewees and for press releases.  Difficulties arose between British Energy POs and the police media coordinator because BE were releasing information that didn't pass through the sub-group for approval first.  BE argued that the information was pre-agreed in the plan for early release, e.g. the need for people in the immediate area to take Potassium Iodide Tablets (PITs).
+
+Media briefing was also difficult due to inaccurate and limited information, e.g. on number of casualties.  Apparently media management is often a difficult aspect of the operation.
+
+Apparently, there may be a move to a "modular" approach to testing contingency plans, e.g. don't test media handling at every exercise.
+
+The complexity of managing public communications is also apparent, for example, the PR officers have to be able to explain why the shelter zone for the accident is only 2.4km from hunterston, but the produce ban by the FPA would be 20km or more.  Also, people will be allowed to leave shelters after a few hours, but not allowed to eat home grown produce for months (difference between airborne and ground radiation).  Also, public water supply is safe to drink because it is underground.
+
+== Usefulness of Responsibility Modelling + Tooling ==
+
+Specific action points from strategic and tactical meetings were often shared responsibilities between agencies that needed to coordinate to get something done.  RM might be useful for modelling these decisions, results etc.  E.g. evacuation is coordinated between North Ayreshire LA and the Fire+Rescue service (decontamination), so need to coordinate setting up of evacuation centres.
+
+RM might also be a better way of summarising the strategy for display on walls, than the bullet point approach, also if used to minute decisions in meetings, more useful for displaying who is coordinating what actions.
+
+Keep the room abreast of the "state of play" - the whiteboard mechanism kept getting out of date.  Would also provide a useful information point for new arrivals to be briefed.
+
+Also may generate further discussion, e.g. responsibiltiy for decontamination is shared by fire and ambulance, but who is responsible for disposing of decontaminated clothing?
+
+----
+CategoryInDeEDEventCalendar

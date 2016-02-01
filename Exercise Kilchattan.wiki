@@ -1,0 +1,30 @@
+'''Background '''
+
+Exercise Kilchattan used the same emergency HSCC centre as Exercise Indus, at Prestwick airport. The layout and usage of the rooms differed slightly as this was a part virtual exercise which followed a script of sorts. The main room was used, but instead of emergency responding agencies having seperate desk spaces, they instead shared two large tables. The Magnox communications centre was held next door with live communication links to Hunterston A, where the exercise was being conducted as a live exercise. There were also links to the CESC in gloucester, which manages all nuclear emergencies.
+
+'''The exercise'''
+
+Members of each emergency service were allocated to each of the two discussion tables. The member organisations varied from Police to food standards. See exercise plan for more detail on exercise makeup. The day consisted of half hour briefings/discussions, followed by half hour thinking time on the two tables. The problems they were thinking about were in fact given to them each hour. The two tables did not have the ability to affect the timeline of the exercise, they could discuss the decisions they would take, but these were independent of what occurred.
+
+The exercise itself was based on a spillage from a waste sotrage tank on the hunterston A site. The spillage was compounded by a failure in the drainage pump system which allowed the spillage to enter a water storage area off site. The site itself was subject to a fallen tree due to storm damage, which blocked the main access road hindering emergency services. A sponsored dog walk was also occurring on the boundary to the site.
+
+A number of minor problems occurred during the exercise as a direct result of the way in which the exercise was designed, these are covered below:
+
+* The member organisations had to accept the scripted portions of the exercise outlaying what was happening and when. The firebrigade were mightily peeved that the fallen true was supposedly still causing problems after a number of hours.
+
+* The police forgot about the dog walkers completely and had to be reminded by the ambulance service a number of hours in who wondered what had happened to them.
+
+* Discussions were often sidetracked, partly becuase those member organisations felt they needed to contribute something; in many cases this wasn't necessary. The coastguard in particular had something to say about just about everything.
+
+* the tables nominated spokespeople, but the tables themselves were too long for reasonable discussions.
+
+* Only SEPA realised they were entitled to enter the communciations centre to ask questions of the people at hunterston A beyond that information provided at the hourly briefings
+
+A few interesting contingency planning points did arise:
+
+* In England the CESC would have an environmental agency party on site. In scotland this is simply not feasible (its in gloucester). As such information requests by SEPA had to be handled remotely through the communications room at the HSCC. Training levels mean't that some staff were confused as to how they were supposed to handle SEPA information requests becuase of this.
+
+* The whole exercise was designed partly to test the communications with the nulcear regulator. Unfortunately their phones lines were down at the start of the exercise!!
+
+
+
